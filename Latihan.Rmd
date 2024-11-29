@@ -1,0 +1,9 @@
+---
+title: "Modul Basis Data"
+author: "Kinanthi Trah Asmaraningtyas"
+date: "2024-11-29"
+output: html_document
+---
+
+## contoh
+modul Pengantar Data Sains
