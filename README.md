@@ -4,16 +4,14 @@
 # BAB I BASIS DATA
 
 ## Pengenalan Basis Data
-::: {style="text-align: justify;"}
+
 Basis data adalah kumpulan data yang saling berhubungan secara logis dan didesain untuk mendapatkan data yang dibutuhkan oleh suatu organisasi (Indrajani, 2015).
 
 Basis data (database) adalah sebuah kumpulan informasi yang disimpan di dalam komputer dan dapat diperiksa, diolah, atau dimanipulasi secara sistematis menggunakan program komputer. Istilah ***“basis”*** mengacu pada gudang atau tempat penyimpanan, sedangkan ***“data”*** merujuk pada fakta-fakta yang dikumpulkan. Dengan menggunakan basis data, pengguna dapat menyimpan informasi dalam media lain dan mengaksesnya kembali ketika diperlukan.
-:::
+
 ## Komponen Basis Data
 
 Komponen-komponen dari basis data terdiri dari:
-
-::: {style="text-align: justify;"}
 
 1.  **Perangkat keras *(Hardware***) **:** Merupakan komponen fisik yang terdiri dari komputer, server, penyimpanan data, dan perangkat keras lainnya yang digunakan untuk menyimpan dan mengakses basis data.
 
@@ -27,5 +25,4 @@ Komponen-komponen dari basis data terdiri dari:
 
 6.  **Aplikasi:** Merupakan perangkat lunak lain yang digunakan bersama dengan basis data untuk menyediakan fungsionalitas tambahan. Aplikasi ini dapat berupa program khusus yang dibangun untuk keperluan tertentu atau aplikasi umum yang menggunakan basis data sebagai sumber data mereka.
 
-:::
 
