@@ -1,18 +1,17 @@
 ---
 title: "Modul Basis Data"
-author: "Kinanthi Trah Asmaraningtyas"
-date: "2024-11-29"
+author: "Kinanthi Trah Asmaraningtyas & Dinda Dwi Anugrah Pertiwi"
 output: html_document
 ---
 
 # BAB I BASIS DATA
 
 ## Pengenalan Basis Data
-
+::: {style="text-align: justify;"}
 Basis data adalah kumpulan data yang saling berhubungan secara logis dan didesain untuk mendapatkan data yang dibutuhkan oleh suatu organisasi (Indrajani, 2015).
 
 Basis data (database) adalah sebuah kumpulan informasi yang disimpan di dalam komputer dan dapat diperiksa, diolah, atau dimanipulasi secara sistematis menggunakan program komputer. Istilah ***“basis”*** mengacu pada gudang atau tempat penyimpanan, sedangkan ***“data”*** merujuk pada fakta-fakta yang dikumpulkan. Dengan menggunakan basis data, pengguna dapat menyimpan informasi dalam media lain dan mengaksesnya kembali ketika diperlukan.
-
+:::
 ## Komponen Basis Data
 
 Komponen-komponen dari basis data terdiri dari:
