@@ -12,7 +12,7 @@ Basis data (database) adalah sebuah kumpulan informasi yang disimpan di dalam ko
 
 Komponen-komponen dari basis data terdiri dari:
 
-:::{style="text-align: justify;"}
+::: {style="text-align: justify;"}
 
 1.  **Perangkat keras *(Hardware***) **:** Merupakan komponen fisik yang terdiri dari komputer, server, penyimpanan data, dan perangkat keras lainnya yang digunakan untuk menyimpan dan mengakses basis data.
 
@@ -25,4 +25,5 @@ Komponen-komponen dari basis data terdiri dari:
 5.  **Pengguna *(User)*:** Merupakan individu atau entitas yang menggunakan basis data. Pengguna dapat memiliki peran yang berbeda, seperti pengguna akhir yang menggunakan aplikasi untuk mengakses dan memanipulasi data, atau administrator basis data yang bertanggung jawab untuk mengatur dan mengelola basis data.
 
 6.  **Aplikasi:** Merupakan perangkat lunak lain yang digunakan bersama dengan basis data untuk menyediakan fungsionalitas tambahan. Aplikasi ini dapat berupa program khusus yang dibangun untuk keperluan tertentu atau aplikasi umum yang menggunakan basis data sebagai sumber data mereka.
+
 :::
